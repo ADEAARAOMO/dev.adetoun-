@@ -39,5 +39,45 @@ main{
     background-color: white;
     border-radius: 0 5px 5px 0;
 }
-   
+.perfume{ color: rgb(12, 68, 28);}
+.solar{
+    color:#adacb1;
+}
 
+.pricing{
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+
+}
+.first-price {
+    color:#18700d;
+    font-size: 2rem;
+    font-weight: bolder;
+
+}
+.button-wrapper{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #18700d;
+    border-radius: 5px;
+}
+.button-wrapper img{
+    width:1rem;
+    height: 2rem;
+}
+button{
+    background-color: transparent;
+    border: none;
+    color: white;
+}
+
+
+
+
+
+
+
+
+.button img
